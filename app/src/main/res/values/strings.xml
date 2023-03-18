@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pizza Bestellung</string>
+    <string name="submit_order">Bestellung Abschliessen</string>
+    <string name="order_summary">Deine Bestellung: \n Sorte: %1$s\n Grösse %2$s\n Zusätzliche Zutaten:</string>
+    <string name="vegi_text">Vegi (+1 CHF)</string>
+    <string name="peperoni_text">Peperoni (+1 CHF)</string>
+    <string name="pilze_text">Pilze (+1 CHF)</string>
+    <string name="oliven_text">Oliven (+1 CHF)</string>
+    <string name="zwiebeln_text">Zwiebeln (+1 CHF)</string>
+    <string name="paprika_text">Paprika (+1 CHF)</string>
+    <string name="kaese_text">Extra Käse (+1 CHF)</string>
+    <string name="schinken_text">Schinken (+1 CHF)</string>
+    <string name="ananas_text">Ananas (+1 CHF)</string>
+    <string name="thunfisch_text">Thunfisch (+2 CHF)</string>
+</resources>
